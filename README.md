@@ -1,1 +1,2 @@
 # Beckhoff-TwinCat3-project
+"Developed an automated lift drive system for manufacturing environments using TwinCAT 3 PLC software. The system integrated automated control, sensor safety systems, and a user-friendly interface. Achieved smooth, rapid movement with precise positioning, optimized for various load conditions while ensuring safety. The solution emphasized adaptability, allowing customization of speed and positioning based on user requirements
